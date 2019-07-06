@@ -1,61 +1,14 @@
-[{
-        "link": "https://xwatch.vn/images/products/2019/09/12/resized/ser1t002d0-avatar-1.jpg",
-        "price": "6990000",
-        "name": "SER1T002D0"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/ra-ag0005l10b-avatar.jpg",
-        "price": "6720000",
-        "name": "RAAG0005L10B"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/07/05/resized/citizen-bm7400-12l-nam_1562276107.jpg",
-        "price": "5280000",
-        "name": "BM740012L"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/avatarfag03001d0.jpg",
-        "price": "7530000",
-        "name": "FAG03001D0"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/10/12/resized/ra-ar0101l10b-1.jpg",
-        "price": "7440000",
-        "name": "RAAR0101L10B"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/ra-kv0003s10b-avatar.jpg",
-        "price": "6170000",
-        "name": "RAKV0003S10B"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/09/12/resized/fac00007w0.jpg",
-        "price": "5540000",
-        "name": "FAC00007W0"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/10/12/resized/f68473-1.jpg",
-        "price": "7510000",
-        "name": "F68473"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/fac00009w0-1.jpg",
-        "price": "5360000",
-        "name": "FAC00009W0"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/09/12/resized/op990-083amsk-t.jpg",
-        "price": "5180000",
-        "name": "OP990083AMSKT"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/set0t002s0.jpg",
-        "price": "9530000",
-        "name": "SET0T002S0"
-    },
-    {
-        "link": "https://xwatch.vn/images/products/2019/08/12/resized/at2393-17h1.jpg",
-        "price": "8050000",
-        "name": "AT239317H"
-    }
+[
+{"link": "https://xwatch.vn/images/products/2019/09/12/resized/ser1t002d0-avatar-1.jpg", "price": "6.990.000\u20ab", "name": "SER1T002D0"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/ra-ag0005l10b-avatar.jpg", "price": "6.720.000\u20ab", "name": "RA-AG0005L10B"},
+{"link": "https://xwatch.vn/images/products/2019/07/05/resized/citizen-bm7400-12l-nam_1562276107.jpg", "price": "5.280.000\u20ab", "name": "BM7400-12L"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/avatarfag03001d0.jpg", "price": "7.530.000\u20ab", "name": "FAG03001D0"},
+{"link": "https://xwatch.vn/images/products/2019/10/12/resized/ra-ar0101l10b-1.jpg", "price": "7.440.000\u20ab", "name": "RA-AR0101L10B"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/ra-kv0003s10b-avatar.jpg", "price": "6.170.000\u20ab", "name": "RA-KV0003S10B"},
+{"link": "https://xwatch.vn/images/products/2019/09/12/resized/fac00007w0.jpg", "price": "5.540.000\u20ab", "name": "FAC00007W0"},
+{"link": "https://xwatch.vn/images/products/2019/10/12/resized/f68473-1.jpg", "price": "7.510.000\u20ab", "name": "F6847/3"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/fac00009w0-1.jpg", "price": "5.360.000\u20ab", "name": "FAC00009W0"},
+{"link": "https://xwatch.vn/images/products/2019/09/12/resized/op990-083amsk-t.jpg", "price": "5.180.000\u20ab", "name": "OP990-083AMSK-T"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/set0t002s0.jpg", "price": "9.530.000\u20ab", "name": "SET0T002S0"},
+{"link": "https://xwatch.vn/images/products/2019/08/12/resized/at2393-17h1.jpg", "price": "8.050.000\u20ab", "name": "AT2393-17H"}
 ]
