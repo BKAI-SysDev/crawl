@@ -65,7 +65,8 @@ ROBOTSTXT_OBEY = False
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   'crawler.pipelines.CrawlerPipeline': 300,
+   'crawler.pipelines.PricePipeline': 300,
+   'crawler.pipelines.NamePipeline': 300,
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
