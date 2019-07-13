@@ -5,6 +5,9 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
+from scrapy.exporters import JsonItemExporter
+from .items import CrawlerItem
+import json
 
 class PricePipeline(object):
     def process_item(self, item, spider):
@@ -15,7 +18,6 @@ class PricePipeline(object):
             list_price.append(p)
         item["price"] = list_price
         #handle price attribute when its have many space
-
         return item
 
 
@@ -32,3 +34,24 @@ class NamePipeline(object):
         item["name"] = list_name
         #handle name attribute when its have many space
         return item
+
+class ConvertPipeline(object):
+    def process_item(self,item,spider):
+        result = []
+        name = item["name"]
+        link = item["link"]
+        price = item["price"]
+        i = 0
+        while i < len(name):
+            temp = CrawlerItem()
+            temp["name"] = name[i]
+            temp["price"] = price[i]
+            temp["link"] = link[i]
+            i = i + 1
+            result.append(temp)
+        item = result
+        return item
+
+
+
+
